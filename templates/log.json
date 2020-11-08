@@ -1,0 +1,29 @@
+{
+    "102": {
+        "source": "A",
+        "destination": "canteen",
+        "starttime": "5.25",
+        "endtime": "5.30"
+    }
+}{
+    "101": {
+        "source": "A",
+        "destination": "canteen",
+        "starttime": "5.26",
+        "endtime": "5.33"
+    }
+}{
+    "102": {
+        "source": "canteen",
+        "destination": "A",
+        "starttime": "4.43",
+        "endtime": "4.47"
+    }
+}{
+    "101": {
+        "source": "canteen",
+        "destination": "gym",
+        "starttime": "4.44",
+        "endtime": "4.50"
+    }
+}
